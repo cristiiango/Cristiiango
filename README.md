@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Cris (@Cristiiango)
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning C++, HTML, CSS and Python
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me: cristiangomesbr@outlook.com
+- 🌱 I’m currently learning C, C++ and Python
+- 📫 How to reach me: crissk53@gmail.com
